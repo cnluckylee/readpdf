@@ -2,9 +2,9 @@
 /input/
 /ASEX.log
 /bin
-!/document/*
-!/resource/*
-!./setting/*
-!/pdf/*
-!/config/*
+/document
+/resource
+./setting
+/pdf
+/config
 
